@@ -10,7 +10,7 @@ Here are some things about me :
 - 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
 - 📫 How to reach me: [Discord kikaso#3108](https://discordapp.com/users/184728912763420672/), [Email](mailto:borrallorodriguez@gmail.com), [LinkedIn](https://www.linkedin.com/in/eborrallo/), [Stackoverflow](https://stackoverflow.com/users/9033868/eborrallo)
 - ⚡ Fun fact:   
-    - Frontend **React with Typescript** on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/)  
+    - Frontend **React with Typescript** and Backend **Node.js with Typescript** on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/)  
     - Android Native apps with **Kotlin** [Sporthealth](https://play.google.com/store/apps/details?id=es.mgc.appsporthealth&gl=ES)
     - Phonegap mobile app in **Vue.js** [Pinturas de la Catedral de Segovia](https://play.google.com/store/apps/details?id=com.tramamedia.segovia)
     - **Flutter** mobile app [Tasker](https://play.google.com/store/apps/details?id=com.kikaso.tasker)
