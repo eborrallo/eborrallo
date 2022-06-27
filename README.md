@@ -1,7 +1,7 @@
 
 Hi there 👋, I'm Enric ( Kike for friends 😄 ) a software developer by day and also by night, sometimes, only when I feel like it, really.
 
-Here are some ideas to get you started:
+Here are some things about me :
 
 - 🔭 I’m currently working on [Axie Management](https://tracker.axie.management/) && [Axie Lands](https://axielands.app/). (ERC-721, ERC-20)
 - 🌱 I’m currently learning about web3 and cryptos.
