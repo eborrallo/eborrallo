@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     - Working in a Dapp like calendy in blokchain as a prove of concept
 - 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
 - 📫 How to reach me: [Discord kikaso#3108](https://discordapp.com/users/184728912763420672/), [Email](mailto:borrallorodriguez@gmail.com), [LinkedIn](https://www.linkedin.com/in/eborrallo/), [Stackoverflow](https://stackoverflow.com/users/9033868/eborrallo)
-- ⚡ Fun fact: I use to be PHP developer and now fan of NodeJS / TypeScript. It's possible guys :D
+- ⚡ Fun fact: I use to be PHP developer and now NodeJS / TypeScript / web3. It's possible guys :D
 
 
 <a href="https://stackexchange.com/users/12392412"><img src="https://stackexchange.com/users/flair/12392412.png" width="208" height="58" alt="profile for eborrallo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eborrallo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
