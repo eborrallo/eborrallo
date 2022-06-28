@@ -9,6 +9,18 @@ I'm Enric ( Kike for friends 😄 ) a software developer by day and also by nigh
 [![GitHub](https://img.shields.io/github/followers/eborrallo?label=follow&style=social)](https://github.com/gkhan205)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kikaso995?style=social)
 
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Solidity-Enthusiast-_.svg?logo=Solidity&color=green"></a>
+<a href="#"><img src="https://img.shields.io/badge/JS-Expert-_.svg?logo=Javascript"></a>
+<a href="#"><img src="https://img.shields.io/badge/TS-Expert-_.svg?logo=Typescript"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-Expert-_.svg?logo=Php"></a>
+<a href="#"><img src="https://img.shields.io/badge/React-Enthusiast-_.svg?logo=React&color=green"></a>
+<a href="#"><img src="https://img.shields.io/badge/Flutter-Enthusiast-_.svg?logo=Flutter&color=green"></a>
+<a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg?color=blue"></a>
+<a href="#"><img src="https://img.shields.io/badge/DDD-Advocate-_.svg?color=blue"></a>
+<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Advocate-_.svg?color=blue"></a>
+</p>
+
 ---
 Here are some things about me :
 
