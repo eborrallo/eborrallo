@@ -1,6 +1,15 @@
 
-Hi there 👋, I'm Enric ( Kike for friends 😄 ) a software developer by day and also by night, sometimes, only when I feel like it, really.
+<h3 align="center">Hi there 👋</h3>
+<p align="center">
+    
+I'm Enric ( Kike for friends 😄 ) a software developer by day and also by night, sometimes, only when I feel like it, really.
+</p>
 
+[![Linkedin](https://img.shields.io/badge/-Eborrallo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eborrallo/)](https://www.linkedin.com/in/eborrallo/)
+[![GitHub](https://img.shields.io/github/followers/eborrallo?label=follow&style=social)](https://github.com/gkhan205)
+![Twitter Follow](https://img.shields.io/twitter/follow/kikaso995?style=social)
+
+---
 Here are some things about me :
 
 - 🔭 I’m currently working on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/). (**ERC-721, ERC-20**)
@@ -20,3 +29,6 @@ So YES im a **Backend PHP and Node.js Typescript and Web3** developer and i love
 
 
 <a href="https://stackexchange.com/users/12392412"><img src="https://stackexchange.com/users/flair/12392412.png" width="208" height="58" alt="profile for eborrallo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eborrallo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eborrallo&layout=compact)](https://github.com/eborrallo)
+
