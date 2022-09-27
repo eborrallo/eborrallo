@@ -26,6 +26,7 @@ Here are some things about me :
 
 - 🔭 I’m currently working on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/). (**ERC-721, ERC-20**)
 - 🌱 I’m currently learning about **web3** and cryptos.
+    - PACMAN Nft and Token creation and asloa Stacking contract to stacke the NFT to earn tokens [PACMAN-STAKING](https://github.com/eborrallo/NFT-staking)
     - Solidiy FlashLoan with multi swpas between dexs as a proof of concept (**ERC-3156, ERC-20**) [FlashBorrowerMultiswap](https://github.com/eborrallo/FlashBorrowerMultiswap)
     - Working in a Dapp like calendy in blokchain as a proof of concept [Agenda](https://github.com/eborrallo/agenda)
 - 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
