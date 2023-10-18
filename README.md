@@ -24,14 +24,12 @@ I'm Enric ( Kike for friends 😄 ) a software developer by day and also by nigh
 ---
 Here are some things about me :
 - 🔒 I’m currently working on [Unlockd Protocol](https://www.unlockd.finance/) a Dapp to lend and borrow NFT
-- 🔭 I’m worked on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/). (**ERC-721, ERC-20**)
+- 🔭 I’m worked on NFT gaming [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/). (**ERC-721, ERC-20**)
 - 🌱 I’m currently learning about **web3** and cryptos.
-    - PACMAN Nft and Token creation and asloa Stacking contract to stacke the NFT to earn tokens [PACMAN-STAKING](https://github.com/eborrallo/NFT-staking)
 - 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
 - 📫 How to reach me: [Discord kikaso#3108](https://discordapp.com/users/184728912763420672/), [Email](mailto:borrallorodriguez@gmail.com), [LinkedIn](https://www.linkedin.com/in/eborrallo/), [Stackoverflow](https://stackoverflow.com/users/9033868/eborrallo)
-- ⚡ Fun fact:   
+- ⚡ Funy works done:   
     - [Discrod Bot](https://axie.management/discord-bot) for Web3 payments in Axie inifnity in **Node.js and Typescript**
-    - Frontend **React with Typescript** and Backend **Node.js with Typescript** on [Axie Management](https://tracker.axie.management/) and [Axie Lands](https://axielands.app/)  
     - Android Native apps with **Kotlin** [Sporthealth](https://play.google.com/store/apps/details?id=es.mgc.appsporthealth&gl=ES)
     - Phonegap mobile app in **Vue.js** [Pinturas de la Catedral de Segovia](https://play.google.com/store/apps/details?id=com.tramamedia.segovia)
     - **Flutter** mobile app [Tasker](https://play.google.com/store/apps/details?id=com.kikaso.tasker)
