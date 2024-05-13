@@ -27,7 +27,8 @@ Here are some things about me :
 - 🌱 I’m alwais learning about **web3** and cryptos.
 - 👯 I’m looking to collaborate on  on any projects that would need my help, specially if in the crypto space.
 - 📫 How to reach me: [Discord kikaso#3108](https://discordapp.com/users/184728912763420672/), [Email](mailto:borrallorodriguez@gmail.com), [LinkedIn](https://www.linkedin.com/in/eborrallo/), [Stackoverflow](https://stackoverflow.com/users/9033868/eborrallo)
-- ⚡ Funy works done:   
+- ⚡ Funy and side projects works done:
+    - Discord server analitics [Kasandr](https://kasandr.vercel.app/)
     - Discrod Bot for Web3 payments in Axie inifnity in **Node.js and Typescript**
     - Android Native apps with **Kotlin** [Sporthealth](https://play.google.com/store/apps/details?id=es.mgc.appsporthealth&gl=ES)
     - Phonegap mobile app in **Vue.js** [Pinturas de la Catedral de Segovia](https://play.google.com/store/apps/details?id=com.tramamedia.segovia)
